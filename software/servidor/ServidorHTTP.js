@@ -1,12 +1,10 @@
 var fs = require("file-system");
 const http = require("http");
 const server = http.createServer();
-const palavra = "Outros"
-//const palavra = "Franzininho"
+//const palavra = "Outros"
+const palavra = "Franzininho"
 //const palavra = "Ligar"
 //const palavra = "Desligar"
-//const palavra = "Horas"
-const fileName = "./resources/"+palavra+"/WAV/";
 const fileNameRAW = "./resources/"+palavra+"/RAW/";
 const fileNameCSV = "./resources/"+palavra+"/CSV/";
 
@@ -21,29 +19,14 @@ if (!fs.existsSync(fileNameCSV)){
 }
 
 const fs1 = require('fs')
-var file = fs1.readdirSync(fileName).length + 1
 var fileRAW = fs1.readdirSync(fileNameRAW).length + 1;
 var fileCSV = fs1.readdirSync(fileNameCSV).length + 1;
 
-console.log(file + " - Arquivos WAV.");
 console.log(fileRAW + " - Arquivos RAW.");
 console.log(fileCSV + " - Arquivos CSV.");
 
 server.on("request", (request, response) => {
-	if (request.method == "POST" && request.url === "/uploadAudio") {
-		var recordingFile = fs.createWriteStream(fileName + palavra + file + ".wav", { encoding: "utf8" });		
-		request.on("data", function(data) {
-			recordingFile.write(data);
-		});
-
-		request.on("end", async function() {
-			recordingFile.end();
-			response.writeHead(200, { "Content-Type": "text/plain" });
-			console.log("Arquivo WAV recebido!");
-			response.end("ok!");
-			file += 1;
-		});
-	}else if (request.method == "POST" && request.url === "/uploadRAW") {
+	if (request.method == "POST" && request.url === "/uploadRAW") {
 		var recordingFile = fs.createWriteStream(fileNameRAW + palavra + fileRAW + ".raw", { encoding: "utf8" });		
 		request.on("data", function(data) {
 			recordingFile.write(data);
