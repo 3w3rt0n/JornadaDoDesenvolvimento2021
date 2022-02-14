@@ -25,7 +25,6 @@
 - TensorFlow
 - Keras
 
-
 # Projetos classificados
 
 Lista de todos os projetos classificados:
@@ -40,7 +39,11 @@ Explicação completa do projeto.
 
 # Projetos vencedores
 
+<img src="https://github.com/3w3rt0n/JornadaDoDesenvolvimento2021/blob/main/imagens/pedestal-gc32c738ba_640.jpg"/>
+
 1°- <a href="https://contest.embarcados.com.br/projetos/franzininho-smart-home/">Franzininho Smart Home – Ewerton Leandro de Sousa</a>
+
+<img src="https://github.com/3w3rt0n/JornadaDoDesenvolvimento2021/blob/main/imagens/momoko-Gold-Medallion.svg"/>
 
 2°- <a href="https://contest.embarcados.com.br/projetos/projeto-cachacapix/">Projeto CachaçaPix – Wallace Júnio Silva de Brito</a>
 
