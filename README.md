@@ -28,18 +28,22 @@
 
 # Projetos classificados
 
+Lista de todos os projetos classificados:
+
 <a href="https://contest.embarcados.com.br/jornada-desenvolvimento-mouser-electronics/projetos/">Link para a página dos projetos!</a>
 
 # Publicação final do projeto - Franzininho Smart Home
+
+Explicação completa do projeto pode ser visualizado na publicação do projeto no link abaixo:
 
 <a href="https://contest.embarcados.com.br/projetos/franzininho-smart-home/">Link para a página da publicação do projeto!</a>
 
 # Projetos vencedores
 
-1°- Franzininho Smart Home – Ewerton Leandro de Sousa
+1°- <a href="https://contest.embarcados.com.br/projetos/franzininho-smart-home/">Franzininho Smart Home – Ewerton Leandro de Sousa</a>
 
-2°- Projeto CachaçaPix – Wallace Júnio Silva de Brito
+2°- <a href="https://contest.embarcados.com.br/projetos/projeto-cachacapix/">Projeto CachaçaPix – Wallace Júnio Silva de Brito</a>
 
-3°- Visualizador Geiger Miller – Halysson Carvalho Silva Junior
+3°- <a href="https://contest.embarcados.com.br/projetos/visualizador-geiger-muller/">Visualizador Geiger Miller – Halysson Carvalho Silva Junior</a>
 
 <a href="https://www.embarcados.com.br/jornada-do-desenvolvimento-mouser-electronics-projetos-vencedores/?fbclid=IwAR11mlFusGquFSeuKdWwslMQ7FO9hv4YNCRTUwm6xgXtFaIfuInvMJSIPOU">Link para o resultado!</a>
