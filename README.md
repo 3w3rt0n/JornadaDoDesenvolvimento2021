@@ -12,7 +12,7 @@
 
 # Proposta do projeto
 
-<img src="https://github.com/3w3rt0n/JornadaDoDesenvolvimento2021/blob/main/hardware/circuito.png"/>
+<img src="https://github.com/3w3rt0n/JornadaDoDesenvolvimento2021/blob/main/hardware/pcb/circuito.png"/>
 
 # Framework
 
