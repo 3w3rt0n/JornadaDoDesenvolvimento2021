@@ -34,7 +34,7 @@ Lista de todos os projetos classificados:
 
 # Publicação final do projeto - Franzininho Smart Home
 
-Explicação completa do projeto pode ser visualizado na publicação do projeto no link abaixo:
+Explicação completa do projeto.
 
 <a href="https://contest.embarcados.com.br/projetos/franzininho-smart-home/">Link para a página da publicação do projeto!</a>
 
