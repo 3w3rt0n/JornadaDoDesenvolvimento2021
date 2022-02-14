@@ -37,9 +37,7 @@ Explicação completa do projeto.
 
 <a href="https://contest.embarcados.com.br/projetos/franzininho-smart-home/">Link para a página da publicação do projeto!</a>
 
-# Projetos vencedores <img src="https://github.com/3w3rt0n/JornadaDoDesenvolvimento2021/blob/main/imagens/pedestal-gc32c738ba_640.jpg" width="80" height="57"/>
-
-Projeto vencedor: Franzininho Smart Home <img src="https://github.com/3w3rt0n/JornadaDoDesenvolvimento2021/blob/main/imagens/momoko-Gold-Medallion.svg" width="200" height="200"/>
+# Projetos vencedores 
 
 1°- <a href="https://contest.embarcados.com.br/projetos/franzininho-smart-home/">Franzininho Smart Home – Ewerton Leandro de Sousa</a>
 
