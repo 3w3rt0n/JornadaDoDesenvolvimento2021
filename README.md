@@ -46,3 +46,15 @@ Explicação completa do projeto.
 3°- <a href="https://contest.embarcados.com.br/projetos/visualizador-geiger-muller/">Visualizador Geiger Miller – Halysson Carvalho Silva Junior</a>
 
 <a href="https://www.embarcados.com.br/jornada-do-desenvolvimento-mouser-electronics-projetos-vencedores/?fbclid=IwAR11mlFusGquFSeuKdWwslMQ7FO9hv4YNCRTUwm6xgXtFaIfuInvMJSIPOU">Link para o resultado!</a>
+
+# Publicação do projeto na Revista INCB Eletrônica N° 8 - Janeiro e Fevereiro/2022
+
+Capa da revista
+
+<img src="https://github.com/3w3rt0n/JornadaDoDesenvolvimento2021/blob/main/imagens/RevistaCapa.png"/>
+
+Publicação do projeto na página 34
+
+<img src="https://github.com/3w3rt0n/JornadaDoDesenvolvimento2021/blob/main/imagens/RevistaPagina34.png"/>
+
+<a href="https://www.newtoncbraga.com.br/index.php/mini-projetos/188-transmissores-e-receptores/index.php/279-news/revista-incb-eletronica/19351-revista-incb-eletronica-n-8.html">Link para a Revista INCB Eletrônica N° 8</a>
